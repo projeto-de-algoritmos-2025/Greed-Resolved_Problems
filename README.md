@@ -24,7 +24,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
     </thead>
     <tbody>
         <tr>
-            <td><a href= target="_blank"></a></td>
+            <td><a href=https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/?envType=problem-list-v2&envId=greedy" target="_blank">452. Minimum Number of Arrows to Burst Balloons</a></td>
             <td>Médio</td>
         </tr>
         <tr>
