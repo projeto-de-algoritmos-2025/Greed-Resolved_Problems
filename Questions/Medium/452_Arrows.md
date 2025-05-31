@@ -6,15 +6,15 @@ https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/descrip
 
 ## Resultados de Testes e Submissão
 
-![](/Assets/)
-![](/Assets/)
+![](/Assets/Description_452.png)
+![](/Assets/Submission_452.png)
 
 
 #### Caso 1:
-![](/Assets/)
+![](/Assets/CaseTest1_452.png)
 
 #### Caso 2:
-![](/Assets/)
+![](/Assets/CaseTest2_452.png)
 
 #### Caso 3:
-![](/Assets/)
+![](/Assets/CaseTest3_452.png)
