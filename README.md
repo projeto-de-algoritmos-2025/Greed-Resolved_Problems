@@ -58,8 +58,8 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td><a href="https://www.youtube.com/watch?v=f8WxhAbj-go">Assistir no YouTube</a></td>
         </tr>
         <tr>
-            <td> </td>
-            <td><a href= target="_blank">Assistir no YouTube</a></td>
+            <td>Video da apresentação dos problemas 452 e 675 </td>
+            <td><a href=https://youtu.be/aTatdjrnfTc target="_blank">Assistir no YouTube</a></td>
         </tr>
     </tbody>
 </table>
