@@ -24,15 +24,15 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
     </thead>
     <tbody>
         <tr>
+            <td><a href=https://leetcode.com/problems/sort-characters-by-frequency/description/" target="_blank">451. Sort Characters By Frequency</a></td>
+            <td>Médio</td>
+        </tr>
+        <tr>
             <td><a href=https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/?envType=problem-list-v2&envId=greedy" target="_blank">452. Minimum Number of Arrows to Burst Balloons</a></td>
             <td>Médio</td>
         </tr>
         <tr>
-            <td><a href= target="_blank"></a></td>
-            <td>Médio</td>
-        </tr>
-        <tr>
-            <td><a href= target="_blank"></a></td>
+            <td><a href= https://leetcode.com/problems/profitable-schemes/" target="_blank">879. Profitable Schemes</a></td>
             <td>Difícil</td>
         </tr>
         <tr>
