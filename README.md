@@ -36,7 +36,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td>Difícil</td>
         </tr>
         <tr>
-            <td><a href= target="_blank"></a></td>
+            <td><a href= target= https://leetcode.com/problems/cut-off-trees-for-golf-event/description/"_blank">675. Cut Off Trees for Golf Event</a></td>
             <td>Difícil</td>
         </tr>
     </tbody>
